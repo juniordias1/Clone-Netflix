@@ -1,10 +1,14 @@
 # Olá, Bem vindo ao meu projeto Clone Netflix.
 
-![image](https://github.com/juniordias1/portfolio/blob/main/Screenshot_3.png)
+![image](https://github.com/juniordias1/Clone-Netflix/blob/main/img/Screenshot_6.png)
 
-![image](https://github.com/juniordias1/portfolio/blob/main/Screenshot_4.png)
+![image](https://github.com/juniordias1/Clone-Netflix/blob/main/img/Screenshot_7.png)
 
-![image](https://github.com/juniordias1/portfolio/blob/main/Screenshot_5.png)
+![image](https://github.com/juniordias1/Clone-Netflix/blob/main/img/Screenshot_8.png)
+
+![image](https://github.com/juniordias1/Clone-Netflix/blob/main/img/Screenshot_9.png)
+
+![image](https://github.com/juniordias1/Clone-Netflix/blob/main/img/Screenshot_10.png)
 
 ### Acesse aqui: https://juniordias1.github.io/Clone-Netflix/
 
